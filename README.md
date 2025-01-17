@@ -43,27 +43,6 @@ Employed to create interactive visualizations, including bar plots and geographi
 NLTK (Natural Language Toolkit):
 Applied for text preprocessing, including tokenization and stopword removal, to analyze profile descriptions.
 
-🚀 How to Run the Project
-To run the notebooks locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/linkedin-data-analysis.git
-cd linkedin-data-analysis
-Install the required Python packages:
-
-bash
-Copy code
-pip install pyspark matplotlib plotly pandas nltk seaborn
-Launch Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-Open the notebooks and run the cells to view the analysis and results.
-
 💡 Career Recommendation Tool
 The insights derived from this LinkedIn data analysis project were used to build An AI-based Tool for Career Recommendations via LinkedIn. This tool uses AI to recommend personalized career paths based on a user’s LinkedIn profile data.
 
